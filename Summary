@@ -1,0 +1,15 @@
+SUMMARY
+
+Cyber security plays a crucial role in protecting digital systems, networks, and data from cyber threats in today’s technology-driven world. As online services such as banking, social media, cloud platforms, and mobile applications continue to grow, the need for strong security measures becomes increasingly important.
+
+This task provides a clear understanding of the CIA Triad, which forms the foundation of cyber security. Confidentiality ensures that sensitive information is accessed only by authorized users, Integrity maintains the accuracy and trustworthiness of data, and Availability guarantees that systems and services remain accessible when needed.
+
+The study of different types of cyber attackers, including script kiddies, insiders, hacktivists, cyber criminals, and nation-state attackers, highlights the diverse motivations and skill levels behind cyber attacks. Understanding attacker behavior helps organizations design stronger defense mechanisms.
+
+An attack surface represents all possible entry points that an attacker can exploit to gain unauthorized access. Web applications, mobile applications, APIs, networks, and cloud infrastructure all contribute to the attack surface. Reducing the attack surface significantly lowers security risks.
+
+The OWASP Top 10 provides awareness of the most critical web application security vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), broken authentication, and security misconfiguration. Knowledge of these vulnerabilities helps in developing secure applications.
+
+Finally, analyzing the data flow from user to application, server, and database helps identify potential attack points at each stage. Understanding these concepts strengthens overall system security.
+
+Overall, this task builds a strong foundation in cyber security fundamentals, threat awareness, and secure system design, which are essential skills for a cyber security professional.
