@@ -55,9 +55,9 @@ By completing this task, a clear understanding of cyber security fundamentals, c
 ---
 
 ## 👤 Author
-Name: *Your Name*  
+Name: Nandha S
 Internship: Cyber Security Internship  
-Date: *DD/MM/YYYY*
+
 
 ---
 
